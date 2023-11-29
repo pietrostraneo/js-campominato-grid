@@ -28,10 +28,10 @@ let generate = document.getElementById(`generate`)
 
 // switch(difficulty.value){
 //     case 1:
-//         cellNum = 25
+//         cellNum = 49
 //         break;
 //     case 2:
-//         cellNum = 64
+//         cellNum = 81
 //         break;
 //     case 3:
 //         cellNum = 100
@@ -54,12 +54,12 @@ generate.addEventListener("click", function(){
     let size;
 
     if(difficulty.value == 1){
-        cellNum = 25
-        size = "500px"
+        cellNum = 49
+        size = "700px"
     }
     else if(difficulty.value == 2){
-        cellNum = 64
-        size = "800px"
+        cellNum = 81
+        size = "900px"
     }
     else if(difficulty.value == 3){
         cellNum = 100
