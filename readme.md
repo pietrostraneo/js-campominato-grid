@@ -29,3 +29,6 @@ Proviamo sempre prima con dei console.log() per capire se stiamo ricevendo i dat
 Le validazioni e i controlli possiamo farli anche in un secondo momento.
 In allegato esempi di layout da avere come guida nel caso non abbiate idee sullo stile grafico.
 Buon lavoro, a domani!
+
+
+ESERCIZIO CONSEGNATO!!
